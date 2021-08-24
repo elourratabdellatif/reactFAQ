@@ -20,6 +20,22 @@ ReactDOM.render(
     <div className="title12">this is a seconde content text 2</div>
     <div className="title13">this is a seconde content text 3</div>
   </FAQ>
+  <FAQ >
+    <div className="title12">Questions 3 </div>
+    <FAQ >
+      <div className="title1" >sub Questions 1 </div>  
+      <div className="title11">this is a seconde content text 1</div>
+      <div className="title12">this is a seconde content text 2</div>
+      <div className="title13">this is a seconde content text 3</div>
+    </FAQ>
+    <FAQ >
+      <div className="title1" >sub Questions 2 </div>  
+      <div className="title11">this is a seconde content text 1</div>
+      <div className="title12">this is a seconde content text 2</div>
+      <div className="title13">this is a seconde content text 3</div>
+    </FAQ>
+    <div>content</div>
+  </FAQ>
  </div>
   
   ,
